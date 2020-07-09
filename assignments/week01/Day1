@@ -1,9 +1,0 @@
-ls -  == stands for list displays all the files and folders of the current directory
-ls -l == displays all the files and folders of the current directory including hidden ones
-pwd == prints the path of the current working directory
-touch == used to create a new empty file or change the timestamp of the currently existing one
-cd .. == changes the working directory to the previous directory
-cd == changes the  working directory to the top of directory tree
-cd ~ == changes the working  directory to the home  
-
-note: practised all the commands in terminal sucessfully
